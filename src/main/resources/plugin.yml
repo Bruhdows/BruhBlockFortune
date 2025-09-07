@@ -1,0 +1,6 @@
+name: BruhBlockFortune
+main: com.bruhdows.bruhblockfortune.BruhBlockFortune
+api-version: 1.21
+version: 1.0
+author: Bruhdows
+website: https://github.com/Bruhdows/BruhBlockFortune
