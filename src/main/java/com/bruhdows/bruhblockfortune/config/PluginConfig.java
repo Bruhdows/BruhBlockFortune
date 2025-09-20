@@ -14,6 +14,8 @@ import java.util.Map;
 @Setter
 public class PluginConfig extends OkaeriConfig {
 
+    private boolean xpTelekenisis = true;
+
     private List<Material> fortuneBlocks = List.of(
             Material.OAK_LOG,
             Material.SPRUCE_LOG,
